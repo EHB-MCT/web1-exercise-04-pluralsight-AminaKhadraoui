@@ -1,0 +1,33 @@
+body {
+    background: rgb(101,23,88);
+background: linear-gradient(90deg, rgba(101,23,88,1) 0%, rgba(49,21,98,1) 35%, rgba(27,24,52,1) 100%);
+font-family: sans-serif;
+margin: 18px;
+}
+
+h1 {
+color: #ff1675;
+margin-bottom: 18px;
+}
+
+h2 {
+    color: #e9eaea;
+    margin-bottom: 48px;
+    }
+
+p{
+    color: #e9eaea;
+    margin-bottom: 48px;
+    }
+    a {
+    background-color: #ff1675;
+    padding: 15px;
+    color: #FFF;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 1cap;
+
+        }
+        a:hover {
+background-color: #ff1675;
+        }
